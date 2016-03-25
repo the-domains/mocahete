@@ -1,0 +1,28 @@
+name: Mocahete
+favicon: null
+layout_spectrum: 0.6020037806592882
+typography_spectrum: 0.9693191826809198
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9074025992304087
+  lightness: 0.5878605402540416
+  saturation: 0.367385386954993
+  rhythmicContrast: 0.8537537618540227
+purpose: []

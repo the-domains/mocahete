@@ -4,8 +4,15 @@
         <description><![CDATA[Mocahete]]></description>
         <link>https://thegrid.ai/mocahete/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 14:53:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 14:54:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mocahete/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to Mocahete, Artisan Metalsmith Jewelry. </p>]]></description>
+            <link>https://thegrid.ai/mocahete/70703e23-458a-40e0-8da4-1600c2b16b4f/index.html</link>
+            <guid isPermaLink="false">70703e23-458a-40e0-8da4-1600c2b16b4f</guid>
+            <pubDate>Sat, 16 Apr 2016 14:54:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to Mocahete artisan metalsmith jewelry.  Handcrafted
@@ -22,13 +29,6 @@ combinations of contrast and elemental magic.
             <link>https://thegrid.ai/mocahete/welcome-to-mocahete-artisan-metalsmith-jewelry-handcrafted/index.html</link>
             <guid isPermaLink="false">943ee0b9-91bd-4b76-914d-cbb578bd7204</guid>
             <pubDate>Sat, 16 Apr 2016 14:53:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome to Mocahete, Artisan Metalsmith Jewelry. </p>]]></description>
-            <link>https://thegrid.ai/mocahete/70703e23-458a-40e0-8da4-1600c2b16b4f/index.html</link>
-            <guid isPermaLink="false">70703e23-458a-40e0-8da4-1600c2b16b4f</guid>
-            <pubDate>Sat, 16 Apr 2016 14:46:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Mocahete]]></title>
         <description><![CDATA[Mocahete]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mocahete/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 17:10:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Apr 2016 14:46:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mocahete/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome to Mocahete. We offer handcrafted adornment in the form of earrings, necklaces, rings, bracelets and more. Our work is often eclectic with a distinct bohemian feel.</p>]]></description>
-            <link>undefined70703e23-458a-40e0-8da4-1600c2b16b4f/index.html</link>
+            <description><![CDATA[<p>Welcome to Mocahete, Artisan Metalsmith Jewelry. </p>]]></description>
+            <link>https://thegrid.ai/mocahete/70703e23-458a-40e0-8da4-1600c2b16b4f/index.html</link>
             <guid isPermaLink="false">70703e23-458a-40e0-8da4-1600c2b16b4f</guid>
-            <pubDate>Wed, 06 Apr 2016 17:10:47 GMT</pubDate>
+            <pubDate>Sat, 16 Apr 2016 14:46:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
